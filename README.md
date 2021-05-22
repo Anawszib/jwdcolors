@@ -2,4 +2,4 @@
 ## Temat projektu
 
 ### Krótki opis
-Opis opis pois...
+Opis opis pois... korekta
